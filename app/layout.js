@@ -1,6 +1,6 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import ProductContextProvider from "@/context/productContextProvider";
+import ProductContextProvider from "@/context/ProductContextProvider";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
 
